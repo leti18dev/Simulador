@@ -48,7 +48,7 @@ simulador/
 
 └── Main.java # Menu principal e loop da simulação
 
---- ## 📌 Reflexão sobre Aprendizados  
+## 📌 Reflexão sobre Aprendizados  
 
 Com este projeto, aprendemos a importância de traduzir conceitos abstratos de sistemas operacionais em representações concretas. A simulação dos diferentes métodos de alocação mostrou de forma prática como decisões de projeto impactam diretamente o desempenho e a utilização de recursos do sistema.  
 
