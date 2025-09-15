@@ -35,11 +35,17 @@ Projeto desenvolvido como parte da disciplina **Sistemas Operacionais**, com o o
 ## 📂 Estrutura do Projeto
 simulador/
 ├── Arquivo.java # Representa os arquivos
+
 ├── Disco.java # Representa o disco e seus blocos
+
 ├── Alocacao.java # Interface para diferentes estratégias
+
 ├── AlocacaoContigua.java # Implementação da alocação contígua
+
 ├── Visualizacao.java # Mostra o estado do disco no terminal
+
 ├── Metricas.java # Calcula fragmentação e tempos de acesso
+
 └── Main.java # Menu principal e loop da simulação
 
 ---
