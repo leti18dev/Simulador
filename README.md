@@ -15,9 +15,7 @@ Projeto desenvolvido como parte da disciplina **Sistemas Operacionais**, com o o
 - Representar o **disco como uma sequência de blocos** livres ou ocupados.  
 - Simular operações de **criação, exclusão, extensão e leitura de arquivos**.  
 - Permitir a escolha de diferentes **estratégias de alocação**:
-  - Alocação Contígua  
-  - Alocação Encadeada *(em desenvolvimento)*  
-  - Alocação Indexada *(em desenvolvimento)*  
+  - Alocação Contígua   
 - Calcular e exibir **métricas importantes**:
   - Fragmentação interna  
   - Fragmentação externa (no caso da alocação contígua)  
