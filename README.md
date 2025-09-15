@@ -48,7 +48,13 @@ simulador/
 
 └── Main.java # Menu principal e loop da simulação
 
----
+--- ## 📌 Reflexão sobre Aprendizados  
+
+Com este projeto, aprendemos a importância de traduzir conceitos abstratos de sistemas operacionais em representações concretas. A simulação dos diferentes métodos de alocação mostrou de forma prática como decisões de projeto impactam diretamente o desempenho e a utilização de recursos do sistema.  
+
+Um dos principais insights foi perceber que **não existe um método perfeito**: cada técnica apresenta vantagens e limitações que devem ser consideradas conforme o contexto. Além disso, o desenvolvimento reforçou a importância de estruturas de dados, como listas e vetores, para gerenciar os blocos de memória.  
+
+Por fim, o trabalho nos mostrou como a programação pode ser usada como ferramenta pedagógica, tornando conteúdos complexos mais acessíveis e interativos.  
 
 ## 📖 Funcionalidades
 - **Criar Arquivo:** usuário informa nome e tamanho em blocos.
