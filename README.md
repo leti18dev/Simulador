@@ -50,7 +50,7 @@ simulador/
 
 ---
 
-##📖 Funcionalidades
+## 📖 Funcionalidades
 - **Criar Arquivo:** usuário informa nome e tamanho em blocos.
 - **Deletar Arquivo:** remove o arquivo e libera os blocos.
 - **Ler Arquivo:** simula leitura sequencial ou aleatória, exibindo tempo estimado.
