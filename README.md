@@ -62,3 +62,6 @@ Por fim, o trabalho nos mostrou como a programação pode ser usada como ferrame
 - **Ler Arquivo:** simula leitura sequencial ou aleatória, exibindo tempo estimado.
 - **Visualização:** mostra o disco em uma grade de blocos numerados (L para livre, A1, A2... para arquivos).
 - **Métricas:** calcula fragmentação interna e tempo de acesso após cada leitura.
+
+## Video Demonstrativo de uso 
+- [https://drive.google.com/file/d/1XVBk_Z_mqXMHuxkjXAoD5oKAfIeXX59A/view?usp=drive_link] 
